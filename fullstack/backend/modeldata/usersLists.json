@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "name":"arul",
+        "value":"jfgjsfgjw",
+        "config":"sder",
+        "status":"active",
+        "Desc":"first value"
+    },
+    {
+        "id":1,
+        "name":"mani",
+        "value":"fjwefgewj",
+        "config":"sder",
+        "status":"inactive",
+        "Desc":"first value"
+    }
+]

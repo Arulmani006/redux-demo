@@ -1,0 +1,12 @@
+.p{
+   padding-left:20%;
+   padding-top: 5%;
+    background-color: rgb(255, 255, 255);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+label {
+    color: rgb(51, 11, 230);
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: x-large;
+  }

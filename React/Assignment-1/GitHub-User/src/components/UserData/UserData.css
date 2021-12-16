@@ -1,0 +1,31 @@
+.primary{
+    padding-left: 20%;
+    background-color: rgb(255, 255, 255);
+    padding-top: 2%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: relative;
+}
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding-left: 20%;
+    padding-right: 2%;
+    padding: 5%;
+    width: fit-content;
+    
+}
+
+td{
+    border: 2px solid rgb(11, 98, 168);
+    
+}
+
+th{
+    border: 2px solid rgb(11, 98, 168);
+    color: rgb(29, 3, 122);
+    
+
+}
+tr:nth-child(even) {
+    background-color: #e2e1e1;
+}
